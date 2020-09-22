@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="./img/Logo.svg" width="250px"/><br>
+  <img src="./img/Logo.png" width="250px"/><br>
   :toolbox:<b>Bem vindo ao Concepts-Dev !</b>
 </h4>
 

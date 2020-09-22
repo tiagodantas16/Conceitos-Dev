@@ -5,9 +5,9 @@
 
 <p align=center>
   <a href="#">
-    <img alt="Made by OmniCode" src="https://img.shields.io/badge/Made%20by-OmniCode-red">
+    <img alt="Made by OmniCode" src="https://img.shields.io/badge/Made%20by-OmniCode-green">
   </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
 </p>
 
 <br>

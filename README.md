@@ -1,6 +1,6 @@
 <h4 align="center">
-  <img src="./img/Logo.svg" width="250px"/><br> // Local do Logo
-  :toolbox:<b>Bem vindo ao !</b> // Nome do Projeto
+  <img src="./img/Logo.svg" width="250px"/><br>
+  :toolbox:<b>Bem vindo ao Concepts-Dev !</b>
 </h4>
 
 <p align=center>
@@ -12,18 +12,27 @@
 
 <br>
 
-### :gear: Tecnologias usadas
+### :gear: Technologies Used
 Este projeto foi desenvolvido com as seguintes tecnologias:
-- [Node.js](https://nodejs.org/en/)
-- [Expo](https://expo.io/)
-- [Express](https://expressjs.com/pt-br/)
-- [ExpressJs](https://expressjs.com/pt-br/)
-- [Nodemon](https://www.npmjs.com/package/nodemon)
-- [Axios](https://www.npmjs.com/package/axios)
-- [Cors](https://www.npmjs.com/package/cors)
-- [Eslint](https://www.npmjs.com/package/eslint)
-- [Jest](https://www.npmjs.com/package/jest)
 
-### :muscle: Projeto 
-Tab Job é um projeto que visa ajudar, de forma a agilizar e controlar o trabalho
-de um equipe eliminando formas não seguras de tabulação de demandas no trabalho.
+## Back-End
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [Cors](https://www.npmjs.com/package/cors)
+
+## Front-End
+- [React.js](https://pt-br.reactjs.org/)- 
+- [Axios](https://www.npmjs.com/package/axios)
+- [Babel/Cli](https://babeljs.io/docs/en/babel-cli)
+- [Babel/Core](https://babeljs.io/docs/en/babel-core)
+- [Babel/Preset-Env](https://babeljs.io/docs/en/babel-preset-env)
+- [Babel/Preset-React](https://babeljs.io/docs/en/babel-preset-react)
+- [Webpack](https://webpack.js.org/)
+- [Webpack/Cli](https://www.npmjs.com/package/webpack-cli)
+- [React-Dom](https://pt-br.reactjs.org/docs/react-dom.html)
+
+### :muscle: Project Description
+
+## Back-End
+
+## Front-End

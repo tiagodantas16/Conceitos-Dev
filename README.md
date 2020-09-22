@@ -1,6 +1,6 @@
 <h4 align="center">
   <img src="./img/Logo.png" width="180px"/><br>
-  :toolbox:<b>Bem vindo ao Concepts-Dev !</b>
+  :brain:<b>Bem vindo ao Concepts-Dev !</b>
 </h4>
 
 <p align=center>
@@ -31,7 +31,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Webpack/Cli](https://www.npmjs.com/package/webpack-cli)
 - [React-Dom](https://pt-br.reactjs.org/docs/react-dom.html)
 
-### :muscle: Project Description
+### :parchment: Project Description
 
 #### Back-End
 

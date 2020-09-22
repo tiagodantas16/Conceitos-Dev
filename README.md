@@ -21,7 +21,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Cors](https://www.npmjs.com/package/cors)
 
 #### Front-End
-- [React.js](https://pt-br.reactjs.org/)- 
+- [React.js](https://pt-br.reactjs.org/)
 - [Axios](https://www.npmjs.com/package/axios)
 - [Babel/Cli](https://babeljs.io/docs/en/babel-cli)
 - [Babel/Core](https://babeljs.io/docs/en/babel-core)

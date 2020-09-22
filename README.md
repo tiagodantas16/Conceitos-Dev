@@ -34,5 +34,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### :brain: Project Description
 
 #### Back-End
+Nessa etapa foi criado uma API que contem um CRUD completo, com: GET, POST, PUT e DELETE.
+Portanto, atraves dessa API pode criar projetos com seus title e owner usando o Insomnia como ferramenta para auxiliar na requisições.
+
 
 #### Front-End
+
+Nessa etapa foi criado um front que permite a conexão com a API[Back-End], com isso sendo possível a criação de novos projetos ao clique de button.
